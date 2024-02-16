@@ -63,13 +63,13 @@ def buttons_commands(message):
     if message.text == 'расписание':
         markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
         button_1=types.KeyboardButton(
-            text='20 января'
+            text='23 февраля'
             )
         button_2=types.KeyboardButton(
-            text='21 января'
+            text='24 февраля'
             )
         button_3=types.KeyboardButton(
-            text='23 января'
+            text='25 февраля'
             )
         markup.add(
             button_1,
