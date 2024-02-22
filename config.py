@@ -1,2 +1,2 @@
-admins = [6553771455, 1245542374]
-token = '6821082048:AAGNVtsV3MFqEAF2iyauGewyYjRIiUZON58'
+admins = []
+token = ''
